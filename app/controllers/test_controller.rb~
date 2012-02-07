@@ -1,0 +1,5 @@
+class TestController < ApplicationController
+  def test_models
+  end
+
+end

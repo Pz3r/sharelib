@@ -1,4 +1,6 @@
 Sharelib::Application.routes.draw do
+  get "test/test_models"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
